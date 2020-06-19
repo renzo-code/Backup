@@ -1,0 +1,292 @@
+{
+  "mascotas": [
+    {
+      "id": 1,
+      "tipo": "perro",
+      "nombre": "Draco",
+      "propietario": "Marcos Garcia"
+    },
+    {
+      "id": 2,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 6,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 10,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "tipo": "Gallo",
+      "nombre": "Carmelo",
+      "propietario": "Eduardo",
+      "id": 1591731444641
+    },
+    {
+      "id": 1591731477193,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731673664,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731711712,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731833456,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731862943,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731865663,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731916127,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731920623,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731922143,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731950223,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731951247,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731952543,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591731954096,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732032400,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732191382,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732213135,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732259966,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732271758,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732281006,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732292438,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732331686,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732351670,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732414093,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732418694,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732424397,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732434349,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732532118,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732545741,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732551965,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732561493,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732564813,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732643141,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732754733,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732814557,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732917852,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591732946236,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591733641978,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591733650818,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591733707786,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591733710498,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "id": 1591815347725,
+      "tipo": "gato",
+      "nombre": "Chato",
+      "propietario": "Renzo"
+    },
+    {
+      "tipo": "Pato",
+      "nombre": "Pity",
+      "propietario": "Fernando",
+      "id": 1591928919540
+    },
+    {
+      "id": 13,
+      "tipo": "Raton",
+      "nombre": "Perez",
+      "propietario": "Amanda Sarapura"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+table.cabecera {
+  border-collapse: collapse;
+  margin-bottom: 5px;
+}
+.cabecera{
+  border: solid black 1px;
+}
+.item{
+  padding: 5px;
+}
+.textos > input{
+  display: block;
+  margin-bottom: 5px;
+}

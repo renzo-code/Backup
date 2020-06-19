@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
+  <link rel="stylesheet" href="json.css">
+</head>
+<body>
+  <div class="textos">
+    <input id="numero" type="text" placeholder="Número :">
+    <input id="tipo" type="text" placeholder="Tipo :">
+    <input id="nombre" type="text" placeholder="Nombre :">
+    <input id="propietario" type="text" placeholder="Propietario :">
+  </div>
+  <table class="cabecera" border="1">
+    <thead>
+      <tr>
+        <th class="item">Nº</th>
+        <th class="item">Tipo</th>
+        <th class="item">Nombre</th>
+        <th class="item">Propietario</th>
+      </tr>
+    </thead>
+    <tbody id="subCabecera">
+    </tbody>
+</table>
+    <form>
+    <input type="button" value="Crear" id="crear"/>
+    <input type="button" value="Actualizar" id="actualizar"/>
+  </form>
+  <script src="./json.js"></script>
+</body>
+</html>
